@@ -1,0 +1,22 @@
+/*start navigation*/
+
+.header_area.main-menu.navbar.navbar-brand {
+    padding: 0 2rem 0 5rem;
+}
+
+.header_area.main-menu.navbar {
+    padding: 1 rem 20rem;
+}
+
+
+/*Moves Header to center*/
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-image: url("zukisa.png");
+}
